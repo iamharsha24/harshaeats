@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/harshaeats/static/css/main.1491cbab.css",
+    "main.js": "/harshaeats/static/js/main.33896d18.js",
+    "index.html": "/harshaeats/index.html",
+    "main.1491cbab.css.map": "/harshaeats/static/css/main.1491cbab.css.map",
+    "main.33896d18.js.map": "/harshaeats/static/js/main.33896d18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1491cbab.css",
+    "static/js/main.33896d18.js"
+  ]
+}
